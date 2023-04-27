@@ -1,0 +1,5 @@
+export const api1 = "http://localhost:8041"
+export const api2 = "http://localhost:8042"
+export const api3 = "http://localhost:8040"
+export const api4 = "http://localhost:8050"
+export const api5 = "http://localhost:8044"

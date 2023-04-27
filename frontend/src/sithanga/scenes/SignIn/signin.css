@@ -1,0 +1,22 @@
+/* body{
+    background-image: url("C:/Users/Sithanga/Downloads/andrew-neel-cckf4TsHAuw-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+} */
+.row{
+    background-color: rgb(202, 202, 202);
+    padding: 1rem 1rem 1rem;
+    margin-top: 2rem;
+  }
+  .col{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  } 
+  .container2{
+    border-color: rgb(176, 176, 176);
+    border-style: groove;
+    border-width: 2px;
+    margin-top: 10rem;
+    padding-bottom: 6rem;
+  }
